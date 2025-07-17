@@ -3,6 +3,8 @@
 
 - 🐻 I’m currently working on [MatchaNotes](https://github.com/klevun7/matchanotes)
 
+- 🐷 I'm currently learning [Go](https://go.dev/doc/)
+
 - 🐢 All of my projects are available at [https://www.kevincao.me/](https://www.kevincao.me/)
 
 - 🐼 How to reach me **kevincao558@gmail.com**
