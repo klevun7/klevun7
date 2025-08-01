@@ -1,5 +1,5 @@
 <h1 align="center">👾 hi, i’m kevin</h1>
-<p align="center">I'm an aspiring full-stack engineer with a passion for distributed systems and cloud computing.</p>
+<p align="center">cs @ ucr · building fast, relaible, and scalable systems </p>
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/tech-fullstack%2C_backend%2C_cloud-blue?style=flat-square&color=BDCEF6">
