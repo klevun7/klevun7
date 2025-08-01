@@ -11,7 +11,9 @@
 
 `go` · `python` · `c++` · `postgresql` · `mysql` `next.js` · `react` · `tailwindcss` 
 <br>
-`java` · `mongodb` · `redis` · `docker` · `aws` · `gcp` · `typescript` · `javascript`  
+`java` · `mongodb` · `redis` · `docker` · `aws` · `gcp` · `typescript` · `javascript` 
+<br>
+`php`
 
 ---
 
