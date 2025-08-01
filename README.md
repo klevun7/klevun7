@@ -1,4 +1,4 @@
-<h1 align="center">👾 hi, i’m kevin</h1>
+<h1 align="center">🍗 hi, i’m kevin</h1>
 <p align="center">cs @ ucr · building fast, relaible, and scalable systems </p>
 
 <p align="center">
