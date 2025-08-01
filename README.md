@@ -1,4 +1,4 @@
-<h1 align="center">🍗 hi, i’m kevin</h1>
+<h1 align="center">👾 hi, i’m kevin</h1>
 <p align="center">I'm an aspiring full-stack engineer with a passion for distributed systems and cloud computing.</p>
 
 <p align="center">
