@@ -3,7 +3,7 @@
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/tech-fullstack%2C_backend%2C_cloud-blue?style=flat-square&color=BDCEF6">
-  <img alt="Static Badge" src="https://img.shields.io/badge/currently_learning-go_%2Caws-blue?style=flat-square&color=D4DFF9">
+  <img alt="Static Badge" src="https://img.shields.io/badge/currently_learning-go%2C_aws-blue?style=flat-square&color=D4DFF9">
   <img alt="Static Badge" src="https://img.shields.io/badge/i_love-fried_chicken-blue?style=flat-square&color=E9E9E1">
 </p>
 
