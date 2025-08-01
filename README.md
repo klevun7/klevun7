@@ -5,7 +5,7 @@
 
 - 🐷 I'm currently learning [Go](https://go.dev/doc/)
 
-- 🐢 All of my projects are available at [https://www.kevincao.cc/](https://www.kevincao.cc)
+- 🐢 All of my projects are available at [https://www.kevincao.cc](https://www.kevincao.cc)
 
 - 🐼 How to reach me **kevincao558@gmail.com**
 
